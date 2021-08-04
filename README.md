@@ -1,3 +1,9 @@
+# React Portfolio
+portfolio remade with react  
+week 20 React  
+https://roberty157.github.io/react-portfolio/  
+![Alt text](Screenshot.png "Title")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
